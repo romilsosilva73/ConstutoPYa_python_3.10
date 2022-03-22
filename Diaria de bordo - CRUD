@@ -1,0 +1,20 @@
+Aula 13 - 4 Operações Essenciais de uma Entidade
+
+
+CRUD em aplicações
+
+# C CREATE          - Post     Incluir
+# R REACH/RESEARCH  - Get      Consultar
+# U UPDATE          - Put      Atualizar
+# D DELETE          - Delete   Excluir
+
+
+API Pet Store
+
+3 Entidades
+
+- User
+- Pet
+- Order
+
+API de treinamento
